@@ -1,0 +1,16 @@
+# Build output (make build / make test / make jar)
+out/
+out-test/
+html2md.jar
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
